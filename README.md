@@ -1,1 +1,1 @@
-My First Java Project Using JAVA AWT..
+My First Java Application Using JAVA AWT..
