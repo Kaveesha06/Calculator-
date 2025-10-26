@@ -30,7 +30,7 @@ A modern calculator application built using Java AWT. This project demonstrates 
 
 ### 📋 Prerequisites
 
-- Java Development Kit (JDK) 8 or later
+- Java Development Kit (JDK) 8.
 
 ### ▶️ Running the Application
 
